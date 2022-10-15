@@ -4,3 +4,14 @@ title = "Ticket To Nothing"
 theme = "paperesque"
 paginate = 2
 Copyright = "TicketToNothing 2022"
+
+[params]
+author = "Harleen Sandhu"
+
+[menu]
+
+  [[menu.main]]
+  name = "Home"
+  identifier = "home"
+  weight = 1
+  url = "/"
